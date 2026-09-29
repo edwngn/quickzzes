@@ -11,7 +11,7 @@ teacher2@gmail.com - PW: teacher
 
 Alternatively, you can just register a new account and start from there.
 
-NOTE: I recommend using the "Home" and "Logout" buttons provided by the web app to navigate. The browser's "back" button does work, though it might create some quacky stuff by submitting a form twice, which is annoying. It won't break the program though (not that I know of).
+NOTE: I recommend using the "Home" and "Logout" buttons provided by the web app to navigate. The browser's "back" button does work, though it might submit a form twice, which is annoying. It won't break the program though.
 
 To create a new quiz from scratch, add it by specifying its name and number of questions, and then edit it. 
 To test out the newly added quiz, add a student to it and then log in to the said student account. 

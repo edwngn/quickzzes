@@ -8,7 +8,6 @@ I recommend the following account:
 teacher@gmail.com - PW: teacher
 student@gmail.com - PW: student
 teacher2@gmail.com - PW: teacher
-huh@gmail.com - PW: 123
 
 Alternatively, you can just register a new account and start from there.
 
@@ -17,11 +16,6 @@ NOTE: I recommend using the "Home" and "Logout" buttons provided by the web app 
 To create a new quiz from scratch, add it by specifying its name and number of questions, and then edit it. 
 To test out the newly added quiz, add a student to it and then log in to the said student account. 
 
-
-
-## Authors
-
-- [@tanistocles](https://www.github.com/tanistocles)
 
 
 ## Installation
